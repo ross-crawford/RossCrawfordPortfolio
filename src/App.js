@@ -10,7 +10,7 @@ export default function BasicExample() {
   return (
     <div>
       <div className="nav">
-        <Router>
+        <Router basename={process.env.PUBLIC_URL}>
           <ul>
             <li>
               <Link to="/" className="nav-link">
@@ -36,16 +36,16 @@ export default function BasicExample() {
 
           <div className="content">
             <Switch>
-              <Route exact path={process.env.PUBLIC_URL + "/"}>
+              <Route exact path="/">
                 <Home />
               </Route>
-              <Route exact path={process.env.PUBLIC_URL + "/projects"}>
+              <Route exact path="/projects">
                 <Projects />
               </Route>
-              <Route path={process.env.PUBLIC_URL + "/about"}>
+              <Route path="/about">
                 <About />
               </Route>
-              <Route path={process.env.PUBLIC_URL + "/contact"}>
+              <Route path="/contact">
                 <Contact />
               </Route>
             </Switch>
