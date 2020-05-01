@@ -1,6 +1,6 @@
 # Ross Crawford - Portfolio
 
-My portfolio website, build with React.
+My portfolio website, for demonstrating my work and allowing potential clients to contact me.
 
 ### Highlights
 
@@ -12,19 +12,11 @@ My portfolio website, build with React.
 
 #### Home Page
 
-![Home Page](https://i.postimg.cc/rpLmTCBk/portfolio-home.jpg)
-
-#### Projects Page
-
-![Projects Page](https://i.postimg.cc/rpLmTCBk/portfolio-home.jpg)
-
-#### About Page
-
-![About Page](https://i.postimg.cc/rpLmTCBk/portfolio-home.jpg)
+![Home Page](https://i.postimg.cc/dtdNfSfs/HomePage.png)
 
 #### Contact Page
 
-![Contact Page](https://i.postimg.cc/rpLmTCBk/portfolio-home.jpg)
+![Contact Page](https://i.postimg.cc/tC0VBrPN/Contact-Page.png)
 
 ### Demo
 
