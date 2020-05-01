@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/RossCrawfordPortfolio/static/css/main.808adcd4.chunk.css",
+    "main.js": "/RossCrawfordPortfolio/static/js/main.553d4d14.chunk.js",
+    "main.js.map": "/RossCrawfordPortfolio/static/js/main.553d4d14.chunk.js.map",
+    "runtime-main.js": "/RossCrawfordPortfolio/static/js/runtime-main.89ba04de.js",
+    "runtime-main.js.map": "/RossCrawfordPortfolio/static/js/runtime-main.89ba04de.js.map",
+    "static/js/2.d5e8878a.chunk.js": "/RossCrawfordPortfolio/static/js/2.d5e8878a.chunk.js",
+    "static/js/2.d5e8878a.chunk.js.map": "/RossCrawfordPortfolio/static/js/2.d5e8878a.chunk.js.map",
+    "index.html": "/RossCrawfordPortfolio/index.html",
+    "precache-manifest.f28e1fe80a25b68d7479af9b049491cd.js": "/RossCrawfordPortfolio/precache-manifest.f28e1fe80a25b68d7479af9b049491cd.js",
+    "service-worker.js": "/RossCrawfordPortfolio/service-worker.js",
+    "static/css/main.808adcd4.chunk.css.map": "/RossCrawfordPortfolio/static/css/main.808adcd4.chunk.css.map",
+    "static/js/2.d5e8878a.chunk.js.LICENSE.txt": "/RossCrawfordPortfolio/static/js/2.d5e8878a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89ba04de.js",
+    "static/js/2.d5e8878a.chunk.js",
+    "static/css/main.808adcd4.chunk.css",
+    "static/js/main.553d4d14.chunk.js"
+  ]
+}
