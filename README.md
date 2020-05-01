@@ -12,19 +12,19 @@ My portfolio website, build with React.
 
 #### Home Page
 
-![Home Page](https://postimg.cc/ZWVZF3Y7)
+[Home Page](https://postimg.cc/ZWVZF3Y7)
 
 #### Projects Page
 
-![Projects Page](https://postimg.cc/ZWVZF3Y7)
+[Projects Page](https://postimg.cc/ZWVZF3Y7)
 
 #### About Page
 
-![About Page](https://postimg.cc/ZWVZF3Y7)
+[About Page](https://postimg.cc/ZWVZF3Y7)
 
 #### Contact Page
 
-![Contact Page](https://postimg.cc/ZWVZF3Y7)
+[Contact Page](https://postimg.cc/ZWVZF3Y7)
 
 ### Demo
 
