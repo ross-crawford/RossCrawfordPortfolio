@@ -16,30 +16,38 @@ const Home = () => {
         <a
           href="https://github.com/ross-crawford"
           target="_blank"
+          rel="noopener noreferrer"
           className="link"
         >
-          <FontAwesomeIcon icon={faGithubSquare} size="3x" />
+          <FontAwesomeIcon icon={faGithubSquare} size="3x" className="icon" />
         </a>
         <a
           href="https://www.linkedin.com/in/rosscrawfordwebdev/"
           target="_blank"
+          rel="noopener noreferrer"
           className="link"
         >
-          <FontAwesomeIcon icon={faLinkedin} size="3x" />
+          <FontAwesomeIcon icon={faLinkedin} size="3x" className="icon" />
         </a>
         <a
           href="https://www.facebook.com/ross.crawford.77"
           target="_blank"
+          rel="noopener noreferrer"
           className="link"
         >
-          <FontAwesomeIcon icon={faFacebookSquare} size="3x" />
+          <FontAwesomeIcon icon={faFacebookSquare} size="3x" className="icon" />
         </a>
         <a
           href="https://www.instagram.com/rawsslol/"
           target="_blank"
+          rel="noopener noreferrer"
           className="link"
         >
-          <FontAwesomeIcon icon={faInstagramSquare} size="3x" />
+          <FontAwesomeIcon
+            icon={faInstagramSquare}
+            size="3x"
+            className="icon"
+          />
         </a>
       </div>
     </div>

@@ -6,7 +6,7 @@ import About from "./components/About";
 import Contact from "./components/Contact";
 import Background from "./components/Background";
 
-export default function BasicExample() {
+const App = () => {
   return (
     <div>
       <div className="nav">
@@ -61,4 +61,6 @@ export default function BasicExample() {
       <Background />
     </div>
   );
-}
+};
+
+export default App;
