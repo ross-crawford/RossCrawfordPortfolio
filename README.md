@@ -20,7 +20,7 @@ My portfolio website, for demonstrating my work and allowing potential clients t
 
 ### Demo
 
-You can check out the live website [here](https://rosscrawford.dev)
+You can check out the live website [here](https://ross-crawford.github.io/RossCrawfordPortfolio/)
 
 ### Contact
 

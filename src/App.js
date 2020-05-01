@@ -36,16 +36,16 @@ export default function BasicExample() {
 
           <div className="content">
             <Switch>
-              <Route exact path="/">
+              <Route exact path={process.env.PUBLIC_URL + "/"}>
                 <Home />
               </Route>
-              <Route exact path="/projects">
+              <Route exact path={process.env.PUBLIC_URL + "/projects"}>
                 <Projects />
               </Route>
-              <Route path="/about">
+              <Route path={process.env.PUBLIC_URL + "/about"}>
                 <About />
               </Route>
-              <Route path="/contact">
+              <Route path={process.env.PUBLIC_URL + "/contact"}>
                 <Contact />
               </Route>
             </Switch>
